@@ -13,26 +13,31 @@ baseurl: "/beautiful-jekyll"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
+
 # Name of website
-title: My website
+title: US RSE Community
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Community of Research Software Engineers
 
 # --- Navigation bar options --- #
-
-# List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  Community:
+    - About: "about"
+    - RSE Groups: "rse-groups"
+    - Steering Committee: "steering-committee"
+  Resources:
+    - Events & Training: "events-training"
+  Get involved:
+    - Join US-RSE: "join"
+  Careers: "jobs"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -64,31 +69,31 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: US-RSE
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  facebook: 
+  github: 
+  twitter: 
+#  reddit: 
+#  google-plus: 
+#  linkedin: 
+#  xing: 
+#  stackoverflow:
+#  snapchat: 
+#  instagram: 
+#  youtube: 
+#  spotify: 
+#  telephone: 
+#  steam: 
+#  twitch: 
+#  yelp: 
 
 # Select which share links to show in posts
 share-links-active:
@@ -99,7 +104,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "us-rse.org"  
 
 # --- Web Statistics Section --- #
 
