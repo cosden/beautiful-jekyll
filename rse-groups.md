@@ -9,7 +9,7 @@ bigimg: /img/start.jpg
 
 | Organization | Group/Department |
 | ------------ | ----- |
-| Princeton University | [Research Computing](https://researchcomputing.princeton.edu) </br> [Lewis-Siegler Institute for Integrative Genomics](https://lsi.princeton.edu) </br> [Center for Digital Humanites](https://cdh.princeton.edu) |
+| Princeton University | [Research Computing](https://researchcomputing.princeton.edu) <br> [Lewis-Siegler Institute for Integrative Genomics](https://lsi.princeton.edu) <br> [Center for Digital Humanites](https://cdh.princeton.edu) |
 | University of Illinois Urbana-Champaign |  |
 | Oak Ridge National Laboratory |   |
 | University of Alabama |  |
