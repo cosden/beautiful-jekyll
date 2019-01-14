@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Oragnizations with RSEs
+title: Organizations with RSEs
 subtitle:
-bigimg: /img/start.jpg
+bigimg: 
 ---
 
 **Organizations with RSEs**
