@@ -5,10 +5,10 @@ title: RSE Opportunities
 
 ## Current RSE openings
 
-1. Princeton Univeristy RSE Group
+1. (Research Software Engineer)[https://main-princeton.icims.com/jobs/9275/research-software-engineer/job], Princeton University
+2. (Research Software Engineer)[https://main-princeton.icims.com/jobs/9378/research-software-engineer/job], Princeton University
+2. (Research Software Engineer)[https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=158&company=utbattelleP&username=Oakridge], Oakridge National Laboratory
 
 
-## Have an RSE-related job posting?  
-
-Contact info
-
+### Have an RSE-related job posting?  
+Contact us via slack
