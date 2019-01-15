@@ -11,4 +11,4 @@ title: RSE Opportunities
 
 
 ### Have an RSE-related job posting?  
-Contact us via slack
+Contact us via [slack](https://usrse.slack.com).
