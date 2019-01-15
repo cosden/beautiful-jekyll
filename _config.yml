@@ -39,7 +39,7 @@ navbar-links:
     - Join US-RSE: "join"
   Careers:
     - What is an RSE?: "what-is-an-rse"
-    - RSE openings "jobs"
+    - RSE openings: "jobs"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
