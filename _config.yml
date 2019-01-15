@@ -37,7 +37,9 @@ navbar-links:
     - Events & Training: "events-training"
   Get involved:
     - Join US-RSE: "join"
-  Careers: "jobs"
+  Careers:
+    - What is an RSE?: "what-is-an-rse"
+    - RSE openings "jobs"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -78,22 +80,22 @@ author:
 social-network-links:
   rss: false
   email: "someone@example.com"
-  facebook: 
-  github: 
-  twitter: 
-#  reddit: 
-#  google-plus: 
-#  linkedin: 
-#  xing: 
+  facebook:
+  github:
+  twitter:
+#  reddit:
+#  google-plus:
+#  linkedin:
+#  xing:
 #  stackoverflow:
-#  snapchat: 
-#  instagram: 
-#  youtube: 
-#  spotify: 
-#  telephone: 
-#  steam: 
-#  twitch: 
-#  yelp: 
+#  snapchat:
+#  instagram:
+#  youtube:
+#  spotify:
+#  telephone:
+#  steam:
+#  twitch:
+#  yelp:
 
 # Select which share links to show in posts
 share-links-active:
@@ -104,7 +106,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "us-rse.org"  
+url-pretty: "us-rse.org"
 
 # --- Web Statistics Section --- #
 
