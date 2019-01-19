@@ -7,9 +7,16 @@ The US-RSE is community driven and organized.
 
 ### Current Steering Committee
 
-List of people here...
+* Ian Cosden, Princeton University
+* Daniel S. Katz, University of Illinois Urbana-Champaign
+* Jay Jay Billings, Oak Ridge National Laboratory 
+* Jeff Carver, University of Alabama 
+* Chris Hill, MIT
+* Jordan Perr-Sauer, National Renewable Energy Laboratory
+* Charles Ferenbaugh, Los Alamos National Laboratory
+* Lance Parsons, Princeton University
 
 
 ### Want to get involved?
 
-Contact information.
+Join the discussion on (slack)[https://usrse.slack.com/].
